@@ -12,7 +12,8 @@ Also, Assembly codes of the same C program compiled with different optimization 
 
 ## Running the examples
 
-You need a compiler such as `gcc`.
+You'll need a compiler such as `gcc`.
+
 To run an example:
 1. Open a terminal and navigate to the folder of the example.
 2. Assemble and link the code (Here we'll use `gcc` but you can use the compiler you prefer, with its syntax)
